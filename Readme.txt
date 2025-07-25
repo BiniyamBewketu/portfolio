@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
 Template Name: Personal
-Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template URL:
+Author: Biniyam Bewketu 
+you can use it how ever you like it 
